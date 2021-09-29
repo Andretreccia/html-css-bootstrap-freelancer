@@ -1,8 +1,14 @@
-header{
-    background-color: aquamarine;
+header,
+footer{
+    background-color: #2C3E50;
 }
-.hero{
-    background-color: bisque;
+.hero,
+.about{
+    background-color: #1ABC9C;
+}
+.link{
+    background-color: #3A546D;
+
 }
 
 /* Debug */
@@ -11,7 +17,7 @@ header{
         }
         /* header */
         .debug #site_header .col-3{
-            background-color: blanchedalmond;
+            
             height: 80px;
         }
         /* hero */
@@ -27,5 +33,7 @@ header{
             height: 200px;
             
         }
+        /* about */
+        
 /* /debug */
     
