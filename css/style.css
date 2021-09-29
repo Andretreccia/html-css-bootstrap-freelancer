@@ -1,3 +1,10 @@
+header{
+    background-color: aquamarine;
+}
+.hero{
+    background-color: bisque;
+}
+
 /* Debug */
     [class^="col"]{
             border: 1px solid black;
@@ -12,7 +19,13 @@
             height: 200px;
         }
         .debug .hero .col-11{
+            height: 100px;
+        }
+        
+        /* portfolio */
+        .debug .portfolio .ad{
             height: 200px;
+            
         }
 /* /debug */
     
