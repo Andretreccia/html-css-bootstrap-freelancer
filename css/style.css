@@ -16,17 +16,9 @@ footer{
             border: 1px solid black;
         }
         /* header */
-        .debug #site_header .col-3{
-            
-            height: 80px;
-        }
+        
         /* hero */
-        .debug .hero .col-6{
-            height: 200px;
-        }
-        .debug .hero .col-11{
-            height: 100px;
-        }
+        
         
         /* portfolio */
         .debug .portfolio .ad{
@@ -36,4 +28,36 @@ footer{
         /* about */
         
 /* /debug */
+    .hero{
+        padding: 5rem 0;
+    }
     
+   .bar{
+       width: 100px;
+       height: 3px;
+       border-radius: 5px;
+   }
+
+/* i::after {
+  content: "";
+  color: white;
+    width: 100px;
+    height: 3px;
+    border-radius: 5px;
+    background-color: white;
+    display:block;
+    
+   
+}
+
+i::before {
+  content: "";
+  color: white;
+    width: 100px;
+    height: 3px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    
+   
+} */
