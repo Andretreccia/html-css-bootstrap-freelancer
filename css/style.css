@@ -10,24 +10,9 @@ footer{
     background-color: #3A546D;
 
 }
-
-/* Debug */
-    /* [class^="col"]{
-            border: 1px solid black;
-        } */
-        /* header */
-        
-        /* hero */
-        
-        
-        /* portfolio */
-        
-        /* about */
-        
-/* /debug */
-
-        /* Hero section */
-    
+.green{
+    color: #1ABC9C;
+}
     
    .bar{
        width: 120px;
